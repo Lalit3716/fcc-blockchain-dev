@@ -1,6 +1,6 @@
 # created by virtualenv automatically
-Lib
-Scripts
-.vscode
-.env
-pyvenv.cfg
+/Lib
+/Scripts
+/.vscode
+/.env
+/pyvenv.cfg
